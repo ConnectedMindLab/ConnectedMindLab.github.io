@@ -6,12 +6,15 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: logo.jpg
+  image: logo1.bmp
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>운영시간 월/화/목/토 오전 10:00 - 오후 6:00</p>
+    <p>       금 오전 10:00 - 오후 3:00</p>
+    <p>       수 휴무</p>
     <p>Tel 02-6956-1016</p>
     <p>address 동작구 보라매로 5가길 16, 보라매아카데미타워 6층 608호</p>
-    <p>Seoul, South Korea</p>
+    <p>서울</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,9 +30,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-이정은 소장 
-서울대학교 인지과학협동과정 박사 졸업
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+마음이음 인지과학 연구소
+인지과학이론을 기반으로 뇌인지훈련을 개발하고 서비스 합니다.
 
 보라매 아카데미 타워 6층 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
