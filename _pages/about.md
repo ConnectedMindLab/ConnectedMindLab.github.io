@@ -19,7 +19,7 @@ profile:
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: ture # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -37,7 +37,8 @@ latest_posts:
 
 
 서울 동작구 보라매로 5가길 16, 보라매 아카데미 타워 6층, 608호 마음이음 인지과학 연구소
-![](assets/img/address.png)
+
+<img src="assets/img/address.png" alt="마음이음 인지과학 연구소 주소" width="300" height="auto">
 # You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 유튜브? 페이스북? Link to your social media connections, too. This theme is set up to use [카카오 채널](https://pf.kakao.com/_lEhmn) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
