@@ -9,14 +9,14 @@ profile:
   image: logo1.bmp
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>운영시간</p> 
-    <p>월/화/목/토</p>
+    <p>운영시간<br> 
+    월/화/목/토</p>
     <p>오전 10:00 - 오후 6:00</p>
     <p>금 오전 10:00 - 오후 3:00</p>
-    <p>수 휴무</p>
+    <p>수/일 휴무</p>
+
     <p>상담 문의 02-6956-1016</p>
-    <p>동작구 보라매로 5가길 16, 보라매아카데미타워 6층 608호</p>
-    <p>서울</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -38,4 +38,4 @@ latest_posts:
 
 보라매 아카데미 타워 6층 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-유튜브? 페이스북? Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+유튜브? 페이스북? Link to your social media connections, too. This theme is set up to use [카카오 채널](https://pf.kakao.com/_lEhmn) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
