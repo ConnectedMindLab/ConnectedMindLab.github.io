@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: logo.bmp
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   mage_style: "width: 300px; height: auto;" # 이 줄을 추가
   more_info: >
     <p>운영시간<br> 
@@ -47,7 +47,7 @@ latest_posts:
 <br>
 <br>
 <br>
-오시는 길
+오시는 길<br>
 <br>
 서울 동작구 보라매로 5가길 16, 보라매 아카데미 타워 6층, 608호 마음이음 인지과학 연구소
 
