@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: logo1.bmp
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   mage_style: "width: 300px; height: auto;" # 이 줄을 추가
   more_info: >
     <p>운영시간<br> 
@@ -53,8 +53,8 @@ latest_posts:
 
 <img src="assets/img/address.png" alt="마음이음 인지과학 연구소 주소" width="500" height="auto">
 
-# class="responsive-image"
-
-# You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-유튜브? 페이스북? Link to your social media connections, too. This theme is set up to use [카카오 채널](https://pf.kakao.com/_lEhmn) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<br>
+<br>
+[카카오 채널](https://pf.kakao.com/_lEhmn) 
+<br>
+[Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
