@@ -6,8 +6,8 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: logo1.bmp
-  image_circular: false # crops the image to make it circular
+  image: logo.bmp
+  image_circular: true # crops the image to make it circular
   mage_style: "width: 300px; height: auto;" # 이 줄을 추가
   more_info: >
     <p>운영시간<br> 
@@ -38,16 +38,17 @@ latest_posts:
 마음이음 인지과학 연구소는
 인지과학이론을 기반으로 뇌인지훈련을 개발하고 서비스 합니다.
 <br>
-<br>
+
 - 뉴로피드백
 - 바이오피드백
-- 인지훈련
+- 컴퓨터 기반 인지훈련(Dtx)
 - 안구 운동 기반 시지각 훈련
 
 <br>
 <br>
 <br>
 오시는 길
+<br>
 서울 동작구 보라매로 5가길 16, 보라매 아카데미 타워 6층, 608호 마음이음 인지과학 연구소
 
 
@@ -56,5 +57,7 @@ latest_posts:
 <br>
 <br>
 [카카오 채널](https://pf.kakao.com/_lEhmn) 
+<br>
+[네이버 지도](https://naver.me/5b0Ik2D4) 
 <br>
 [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
