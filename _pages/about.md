@@ -8,15 +8,16 @@ profile:
   align: right
   image: logo1.bmp
   image_circular: false # crops the image to make it circular
-  mage_style: "width: 200px; height: auto;" # 이 줄을 추가
+  mage_style: "width: 300px; height: auto;" # 이 줄을 추가
   more_info: >
-    <p>**운영시간**<br> 
+    <p>운영시간<br> 
     월/화/목/토</p>
     <p>오전 10:00 - 오후 6:00</p>
     <p>금 오전 10:00 - 오후 3:00</p>
     <p>수/일 휴무</p>
     <br> 
-    <p>**상담 문의**<br>02-6956-1016</p>
+    <br>
+    <p>상담 문의<br>02-6956-1016</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -33,14 +34,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-마음이음 인지과학 연구소
-인지과학이론을 기반으로 뇌인지훈련을 개발하고 서비스 합니다.<br>
+<br>
+마음이음 인지과학 연구소는
+인지과학이론을 기반으로 뇌인지훈련을 개발하고 서비스 합니다.
+<br>
 <br>
 - 뉴로피드백
 - 바이오피드백
 - 인지훈련
 - 안구 운동 기반 시지각 훈련
 
+<br>
+<br>
+<br>
+오시는 길
 서울 동작구 보라매로 5가길 16, 보라매 아카데미 타워 6층, 608호 마음이음 인지과학 연구소
 
 
