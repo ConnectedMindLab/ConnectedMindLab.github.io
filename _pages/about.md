@@ -33,12 +33,16 @@ latest_posts:
 ---
 
 마음이음 인지과학 연구소
-인지과학이론을 기반으로 뇌인지훈련을 개발하고 서비스 합니다.
-
+인지과학이론을 기반으로 뇌인지훈련을 개발하고 서비스 합니다.<br>
+<br>
+- 뉴로피드백
+- 바이오피드백
+- 인지훈련
+- 안구 운동 기반 시지각 훈련
 
 서울 동작구 보라매로 5가길 16, 보라매 아카데미 타워 6층, 608호 마음이음 인지과학 연구소
 
-<img src="assets/img/address.png" alt="마음이음 인지과학 연구소 주소" width="300" height="auto">
+<img src="assets/img/address.png" class="responsive-image" alt="마음이음 인지과학 연구소 주소">
 # You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 유튜브? 페이스북? Link to your social media connections, too. This theme is set up to use [카카오 채널](https://pf.kakao.com/_lEhmn) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
