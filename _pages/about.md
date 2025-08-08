@@ -5,9 +5,10 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: left
+  align: right
   image: logo1.bmp
   image_circular: false # crops the image to make it circular
+  mage_style: "width: 200px; height: auto;" # 이 줄을 추가
   more_info: >
     <p>**운영시간**<br> 
     월/화/목/토</p>
