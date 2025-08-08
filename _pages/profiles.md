@@ -4,25 +4,43 @@ permalink: /people/
 title: people
 description: members of the lab or group
 nav: true
-nav_order: 7
+nav_order: 2 #7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: logo.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
+      <p>소장 이정은 박사</p>
+      <p>서울대학교 인지과학 석박사</p>
+      <p>한양대학교 아동심리치료학 석사</p>
+      <p>서울대 언어와 사고 실험 연구실 연구원</p>
+  - align: left
+    image: logo.png
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>객원연구원 김애리 박사</p>
+      <p>서울대 인지과학 박사</p>
+      
+  - align: right
+    image: logo.png
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>객원연구원 주혜리 박사</p>
+      <p>서울대 인지과학 박사</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
+    image: logo.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>치료실장 정은실</p>
+      <p>한양대 아동심리치료학 석사</p>
+      <p>미술치료사</p>
+      <p>임상심리사 2급</p>
 ---
