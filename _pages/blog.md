@@ -3,12 +3,12 @@ layout: default
 permalink: /blog/
 title: 연구소 소식
 nav: true
-nav_order: 
+nav_order: 6
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 6
+  per_page: 5
   sort_field: date
   sort_reverse: true
   trail:
