@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: members of the lab or group
 nav: true
-nav_order: 1
+nav_order: 3
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -23,17 +23,9 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>객원연구원 김애리 박사</p>
+      <p>VR 전문가 김애리 박사</p>
       <p>서울대 인지과학 박사</p>
       
-  - align: right
-    image: logo1.png
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>객원연구원 주혜리 박사</p>
-      <p>서울대 인지과학 박사</p>
-      <p>Your City, State 12345</p>
   - align: left
     image: logo1.png
     content: about_einstein.md
