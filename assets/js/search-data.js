@@ -16,12 +16,33 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/neurofeedback/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-바이오피드백",
+              title: "바이오피드백",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/biofeedback/";
+              },
+            },{id: "dropdown-전산화-인지훈련",
+              title: "전산화 인지훈련",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/biofeedback/";
+              },
+            },{id: "dropdown-감각통합훈련",
+              title: "감각통합훈련",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/biofeedback/";
+              },
+            },{id: "dropdown-시지각-amp-글-읽기-훈련",
+              title: "시지각 &amp; 글 읽기 훈련",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/biofeedback/";
               },
             },{id: "dropdown-뇌기능검사",
               title: "뇌기능검사",
