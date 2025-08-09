@@ -1,7 +1,7 @@
 ---
 layout: book-shelf
-title: 뇌기능검사
-permalink: /eeg_test/
+title: 종합주의력검사
+permalink: /cat/
 nav: false
 collection: books
 ---

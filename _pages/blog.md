@@ -1,14 +1,14 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: 연구소 소식
 nav: true
 nav_order: 
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 7
+  per_page: 5
   sort_field: date
   sort_reverse: true
   trail:

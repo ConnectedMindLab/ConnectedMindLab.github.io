@@ -1,7 +1,7 @@
 ---
 layout: book-shelf
-title: 뇌기능검사
-permalink: /eeg_test/
+title: 풀배터리검사
+permalink: /fullbattery/
 nav: false
 collection: books
 ---

@@ -18,7 +18,7 @@ nav: false
 >
 
 
-<img src="assets/img/NT_flow2.png" alt="뉴로피드백 훈련 과정" width="500" height="auto">
+<img src="assets/img/NT_flow2.png" width="500" height="auto">
 
 ## Q&A
 > 뉴로피드백은 실시간 뇌파(EEG)를 기반으로 한 비침습적 두뇌 훈련법으로, 개인이 자신의 뇌 상태를 인식하고 더 건강하고 효율적인 방식으로 조절할 수 있도록 도와주는 기술입니다. 

@@ -1,7 +1,7 @@
 ---
 layout: book-shelf
-title: 뇌기능검사
-permalink: /eeg_test/
+title: 글읽기검사
+permalink: /readning_test/
 nav: false
 collection: books
 ---
