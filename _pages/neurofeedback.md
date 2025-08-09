@@ -1,8 +1,9 @@
+
 ---
-layout: trainging
+layout: book-shelf
 title: 뉴로피드백
 permalink: /neurofeedback/
-nav: true
+nav: false
 collection: programs
 ---
 

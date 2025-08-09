@@ -15,9 +15,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>소장 이정은 박사</p>
-      <p>서울대학교 인지과학 석박사</p>
-      <p>한양대학교 아동심리치료학 석사</p>
-      <p>서울대 언어와 사고 실험 연구실 연구원</p>
   
   - align: left
     image: logo1.png
@@ -25,10 +22,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>전문연구위원 김애리 박사</p>
-      <br>
-      <p>VR 전문가</p>
-      <p>서울대 인지과학 박사</p>
-      <p>UCLA Design and arts 석사</p>
 
   - align: right
     image: logo1.png
@@ -36,8 +29,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>전문연구위원 주혜리 박사</p>
-      <p>아이트래커 전문가</p>
-      <p>서울대 인지과학 박사</p>
+
 
 
   - align: left
@@ -46,7 +38,4 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>치료실장 정은실</p>
-      <p>한양대 아동심리치료학 석사</p>
-      <p>미술치료사</p>
-      <p>임상심리사 2급</p>
 ---
