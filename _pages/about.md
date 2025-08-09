@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: logo.bmp
+  image: logo1.bmp
   image_circular: false # crops the image to make it circular
   mage_style: "width: 300px; height: auto;" # 이 줄을 추가
   more_info: >
