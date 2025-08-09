@@ -5,8 +5,8 @@ nav: true
 nav_order: 1
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: 뉴로피드백
+    permalink: /neurofeedback/
   - title: divider
   - title: blog
     permalink: /blog/

@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: trainging
 title: 뉴로피드백
 permalink: /neurofeedback/
 nav: false
