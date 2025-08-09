@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-뉴로피드백",
+  },{id: "nav-뉴로피드백",
+          title: "뉴로피드백",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/neurofeedback/";
+          },
+        },{id: "dropdown-뉴로피드백",
               title: "뉴로피드백",
               description: "",
               section: "Dropdown",
