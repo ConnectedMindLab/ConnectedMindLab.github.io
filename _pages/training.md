@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 검사 프로그램
+title: 훈련 프로그램
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
