@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+  },{id: "dropdown-뉴로피드백",
+              title: "뉴로피드백",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/neurofeedback/";
               },
             },{id: "dropdown-blog",
               title: "blog",
@@ -44,28 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
