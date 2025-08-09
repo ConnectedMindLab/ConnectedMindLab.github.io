@@ -1,1 +1,5 @@
-Write your biography here.
+  전문연구위원 주혜리 박사
+  <br><br>
+  아이트래커 전문가
+  <br>
+  서울대 인지과학 박사

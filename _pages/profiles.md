@@ -25,6 +25,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>전문연구위원 김애리 박사</p>
+      <br>
       <p>VR 전문가</p>
       <p>서울대 인지과학 박사</p>
       <p>UCLA Design and arts 석사</p>
