@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: logo1.png
-    content: about_einstein.md
+    content: about_profile1.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>소장 이정은 박사</p>
@@ -21,23 +21,28 @@ profiles:
   
   - align: left
     image: logo1.png
-    content: about_einstein.md
+    content: about_profile2.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>VR 전문가 김애리 박사</p>
+      <p>V김애리 Ph.D</p>
+      <p>VR 전문가</p> 
       <p>서울대 인지과학 박사</p>
+      <p>UCLA Design and arts 석사</p>
+      <p>뉴욕대학원 그래픽커뮤니케이션 석사</p>
 
   - align: right
     image: logo1.png
-    content: about_einstein.md
+    content: about_profile3.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>아이트래커 전문가 주혜리 박사</p>
+      <p>주혜리 Ph.D</p>
+      <p>아이트래커 전문가</p>
       <p>서울대 인지과학 박사</p>
-      
+
+
   - align: left
     image: logo1.png
-    content: about_einstein.md
+    content: about_profile4.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>치료실장 정은실</p>
