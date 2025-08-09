@@ -1,7 +1,7 @@
 ---
 layout: book-shelf
 title: 글읽기검사
-permalink: /readning_test/
+permalink: /reading_test/
 nav: false
 collection: books
 ---
