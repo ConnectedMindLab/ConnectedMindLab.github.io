@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-검사-프로그램",
+  },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/books/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "nav-검사-프로그램",
           title: "검사 프로그램",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
@@ -31,11 +45,11 @@ ninja.data = [{
             window.location.href = "/people/";
           },
         },{id: "nav-blog",
-          title: "blog",
-          description: "",
+          title: "Blog",
+          description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/projects/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
