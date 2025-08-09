@@ -1,0 +1,18 @@
+---
+layout: page
+---
+{{ content }}
+
+<div class="training-programs">
+  {% for program in site.programs reversed %}
+    <div class="program-item">
+      <a href="{{ program.url | relative_url }}">
+        {% if program.image %}
+          <img src="{{ program.image | relative_url }}" alt="{{ program.title }}" style="width:200px; height:auto;">
+        {% endif %}
+        <h2>{{ program.title }}</h2>
+      </a>
+      <p>{{ program.description }}</p>
+    </div>
+  {% endfor %}
+</div>

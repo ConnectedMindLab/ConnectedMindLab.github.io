@@ -144,12 +144,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: flase
   news:
     defaults:
       layout: post
     output: true
   projects:
+    output: true
+    collections:
+  programs:
     output: true
 
 # -----------------------------------------------------------------------------

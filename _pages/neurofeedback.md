@@ -1,7 +1,7 @@
 ---
 layout: book-shelf
-title: bookshelf
-permalink: /books/
+title: 뉴로피드백
+permalink: /neurofeedback/
 nav: false
 collection: books
 ---

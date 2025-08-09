@@ -24,8 +24,7 @@ profiles:
     content: about_profile2.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>김애리 박사<p>
-      <br>
+      <p>전문연구위원 김애리 박사</p>
       <p>VR 전문가</p>
       <p>서울대 인지과학 박사</p>
       <p>UCLA Design and arts 석사</p>
@@ -35,7 +34,7 @@ profiles:
     content: about_profile3.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>주혜리 박사</p>
+      <p>전문연구위원 주혜리 박사</p>
       <p>아이트래커 전문가</p>
       <p>서울대 인지과학 박사</p>
 
