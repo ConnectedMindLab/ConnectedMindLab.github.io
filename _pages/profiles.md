@@ -24,11 +24,8 @@ profiles:
     content: about_profile2.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>V김애리 Ph.D</p>
+      <p>김애리 Ph.D</p>
       <p>VR 전문가</p> 
-      <p>서울대 인지과학 박사</p>
-      <p>UCLA Design and arts 석사</p>
-      <p>뉴욕대학원 그래픽커뮤니케이션 석사</p>
 
   - align: right
     image: logo1.png
