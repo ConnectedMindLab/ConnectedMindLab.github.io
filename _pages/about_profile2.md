@@ -1,3 +1,5 @@
+전문연구위원 김애리 박사
+<br><br>
 서울대 인지과학 박사
 <br>
 UCLA Design and arts 석사

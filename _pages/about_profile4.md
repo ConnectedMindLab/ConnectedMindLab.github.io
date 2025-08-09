@@ -1,1 +1,5 @@
-Write your biography here.
+치료실장 정은실
+<br><br>
+한양대 아동심리치료학 석사
+<br>미술치료사
+<br>임상심리사 2급
