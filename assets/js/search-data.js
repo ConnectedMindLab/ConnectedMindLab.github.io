@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-소개",
+    title: "소개",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -51,15 +51,36 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/eeg_test/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-주의력검사",
+              title: "주의력검사",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/cat/";
               },
-            },{id: "nav-people",
-          title: "people",
+            },{id: "dropdown-글읽기검사",
+              title: "글읽기검사",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/reading_test/";
+              },
+            },{id: "dropdown-성인인지기능검사",
+              title: "성인인지기능검사",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/first_assessment/";
+              },
+            },{id: "dropdown-아동-청소년-풀배터리",
+              title: "아동/청소년 풀배터리",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/fullbattery/";
+              },
+            },{id: "nav-구성원들",
+          title: "구성원들",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
