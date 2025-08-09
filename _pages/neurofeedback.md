@@ -5,7 +5,7 @@ permalink: /neurofeedback/
 nav: false
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
+> 뉴로피드백은 실시간 뇌파(EEG)를 기반으로 한 비침습적 두뇌 훈련법으로, 개인이 자신의 뇌 상태를 인식하고 더 건강하고 효율적인 방식으로 조절할 수 있도록 도와주는 기술입니다. 약물 없이 집중력 향상, 불안 감소, 감정 안정, 수면 개선 등에 효과가 있으며, 최근에는 학습 능력 및 수행력 향상을 위한 두뇌 최적화 기법으로도 주목받고 있습니다.
 >
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 

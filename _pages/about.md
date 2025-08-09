@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 소개
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
