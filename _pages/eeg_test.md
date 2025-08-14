@@ -6,8 +6,21 @@ nav: false
 collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+## 뇌기능 검사의 목적
+>로피드백 훈련은 뇌의 전기적 활동을 기반으로 자기조절 능력을 향상시키는 과학적 훈련입니다.
+>현재 뇌의 기능 상태를 객관적으로 파악하기 위해 사전 뇌기능 검사를 진행합니다. 이를 통해,
+>- 뇌기능상 훈련이 필요한 영역을 식별하고,
+>- 개인의 목표(집중력, 감정조절, 수면, 스트레스 등)에 맞추어 
+>맞춤형 훈련 계획을 수립합니다.
 
-## Books that I am reading, have read, or will read
+## 뇌기능 검사의 필요성
+>-	뇌파는 심리적, 신체적 상태와 밀접한 관련이 있습니다.
+>-	주의력 결핍, 과잉행동, 불안, 우울, 수면장애, 만성 스트레스, 감정조절 어려움 등은 특정 뇌 영역의 과잉 또는 저활성 패턴과 관련되어 나타날 수 있습니다.
+>-	뇌파 패턴을 직접 측정하여 신경학적 근거에 기반한 훈련을 설계합니다.
+
+## 뇌기능 검사 방법
+>-	뇌파 검사는 10-20system에 맞추어 뇌의 각 영역의 기능을 검사합니다.
+>-	두피에 센서를 부착하여 안정 상태에서 뇌의 전기적 활동을 측정합니다.
+>-	일반적으로 눈을 감은 상태(안정 뇌파)와 눈을 뜬 상태(주의 뇌파)에서의 측정을 포함합니다.
+>-	검사 시 통증이나 자극은 없으며, 아이들도 편안하게 받을 수 있습니다.
+
