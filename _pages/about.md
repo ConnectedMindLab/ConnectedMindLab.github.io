@@ -2,7 +2,7 @@
 layout: about
 title: 소개
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 서울 보라매 센터
 
 profile:
   align: right
