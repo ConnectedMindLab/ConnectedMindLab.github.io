@@ -75,7 +75,7 @@ nav: false
 
 
 <br>
-<img src="/assets/img/NT_flow.png" alt="뉴로피드백 훈련 과정" width="600px" height="auto">
+<img src="/assets/img/NT_flow_orange.png" alt="뉴로피드백 훈련 과정" width="600px" height="auto">
 
   
 

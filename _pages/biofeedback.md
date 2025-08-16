@@ -9,8 +9,19 @@ collection: books
 ## HRV란?
 >HRV(심박변이도)는 심장 박동 간의 간격이 얼마나 유동적으로 변화하는지를 나타내는 지표입니다. 
 >일반적으로 심장은 일정하게 뛰는 것이 건강하다고 생각하기 쉽지만, 실제로는 박동 간에 약간의 변동이 있는 것이 더 건강한 상태를 의미합니다. 이 변동성이 높을수록 자율신경계(ANS)가 잘 작동하고 있다는 신호입니다.
->
->왜 HRV가 중요한가요?
+
+## 그럼 HRV 바이오피드백이란 무엇일까요? 
+>HRV 기반 바이오피드백 훈련은 숨쉬기 조절과 집중 훈련을 통해 HRV를 높이고 자율신경계의 균형을 회복하도록 돕는 비약물적·비침습적 훈련법입니다.
+>센서를 통해 실시간으로 심장 박동 사이의 시간 간격 변동을 측정하고 분석하고, 이를 시각적/청각적으로 피드백하여 사용자가 자신의 생리적 상태를 스스로 조절할 수 있도록 훈련합니다. 
+
+>호흡을 심박수와 동기화시키는 것은 과학적으로 입증된 기술로, 건강과 성능을 최적화하기 위해 신체의 신경계를 훈련하는 데 사용됩니다. 
+>심박수는 일정한 메트로놈처럼 움직이지 않습니다. 
+>변동성이 높을수록 건강에 좋으며, 노인층에서는 이 변동성이 감소합니다. 
+>HRV를 증가시키기 위한 훈련을 통해 개인은 스트레스 관리 능력, 회복력, 전반적인 건강과 웰빙을 향상시킬 수 있습니다.
+
+>HRV 바이오피드백은 자신의 심장 리듬을 인식하고 조절하는 기술을 통해, 정신적·신체적 회복력을 함께 향상시킵니다. 스스로 마음을 안정시키는 능력은 일상생활 속에서도 활용 가능한 강력한 자기조절 도구가 됩니다.
+
+## 왜 HRV가 중요한가요?
 >다양한 연구에서 HRV가 높을수록 다음과 같은 이점이 있다고 보고하였습니다: 
 >•	감정 조절 능력 향상 (Thayer & Lane, 2000; Lehrer et al. (2020) – 미주신경 기능 강화와 정서 안정 관련)
 >•	불안 감소 (Siepmann et al. (2008) – 범불안장애 환자 대상 HRV 훈련의 효과 확인)
@@ -18,30 +29,19 @@ collection: books
 >•	주의력 및 충동 조절 향상 (Zelaznik et al. (2019) – ADHD 아동의 증상 개선 보고)
 >•	주의력과 사고 능력 향상 (Aranberri Ruiz et al., 2024; Hansen et al., 2003)
 >•	우울 및 불안 증상 감소 (Kemp et al., 2010)
->
+
 >반면, HRV가 낮은 경우 만성 스트레스, 번아웃, 불면, 정서 불균형 등의 문제와 관련이 있습니다.
->
->
-## 그럼 HRV 바이오피드백이란 무엇일까요? 
->HRV 기반 바이오피드백 훈련은 숨쉬기 조절과 집중 훈련을 통해 HRV를 높이고 자율신경계의 균형을 회복하도록 돕는 비약물적·비침습적 훈련법입니다.
->센서를 통해 실시간으로 심장 박동 사이의 시간 간격 변동을 측정하고 분석하고, 이를 시각적/청각적으로 피드백하여 사용자가 자신의 생리적 상태를 스스로 조절할 수 있도록 훈련합니다. 
->
->호흡을 심박수와 동기화시키는 것은 과학적으로 입증된 기술로, 건강과 성능을 최적화하기 위해 신체의 신경계를 훈련하는 데 사용됩니다. 
->심박수는 일정한 메트로놈처럼 움직이지 않습니다. 
->변동성이 높을수록 건강에 좋으며, 노인층에서는 이 변동성이 감소합니다. 
->HRV를 증가시키기 위한 훈련을 통해 개인은 스트레스 관리 능력, 회복력, 전반적인 건강과 웰빙을 향상시킬 수 있습니다.
+
+<br>
+<img src="/assets/img/stress_hrv.png" alt="뉴로피드백 훈련 과정" width="600px" height="auto">
 
 
----
-layout: book-shelf
-title: bookshelf
-permalink: /books/
-nav: false
-collection: books
----
+>훈련은 어떻게 진행되나요?
+>1.	측정: 손끝이나 가슴에 부착된 센서가 심박 및 HRV를 실시간 측정
+>2.	피드백 제공: 모니터를 통해 자신의 호흡과 심박 간의 관계를 시각적으로 확인
+>3.	호흡 조절: 분당 약 6회 정도의 느리고 안정된 호흡 훈련을 통해 공명 호흡 상태 유도
+>4.	자가조절 습득: 반복 훈련을 통해 실제 생활에서도 스트레스를 효과적으로 다루는 능력 향상
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+<br>
+<img src="/assets/img/hrvBio.png" alt="뉴로피드백 훈련 과정" width="600px" height="auto">
 
-## Books that I am reading, have read, or will read
