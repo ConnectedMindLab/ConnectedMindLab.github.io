@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: page
 title: 뉴로피드백
 permalink: /neurofeedback/
 nav: false
@@ -73,13 +73,10 @@ nav: false
 >-	기억력 감퇴, 인지 기능 저하가 걱정되는 중장년 및 실버 세대
 >-	집중력 향상, 두뇌 최적화를 원하는 일반인, 수험생, 예술가, 운동선수 등
 
-profiles:
-  - align: right
-    image: NT_flow.png
-    image_circular: false # crops the image to make it circular
-    image_style: "width: 300px; height: auto;" # 이 줄을 추가
-    more_info: >
-    <p>뉴로피드백 훈련 과정<br>
+
+<br>
+<img src="/assets/img/NT_flow.png" alt="뉴로피드백 훈련 과정" width="600px" height="auto">
+
   
 
 ## 훈련과정
