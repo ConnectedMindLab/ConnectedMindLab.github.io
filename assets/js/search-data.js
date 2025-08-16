@@ -463,7 +463,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-뉴로피드백-이미지",
+          title: '뉴로피드백 이미지',
+          description: "뉴로피드백 훈련 관련 이미지입니다.",
+          section: "Books",handler: () => {
+              window.location.href = "/books/NT_flow/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
