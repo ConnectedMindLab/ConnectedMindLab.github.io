@@ -42,7 +42,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/biofeedback/";
+                window.location.href = "/tVNS/";
               },
             },{id: "dropdown-뇌기능검사",
               title: "뇌기능검사",
@@ -64,13 +64,6 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/reading_test/";
-              },
-            },{id: "dropdown-성인인지기능검사",
-              title: "성인인지기능검사",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/first_assessment/";
               },
             },{id: "dropdown-아동-청소년-풀배터리",
               title: "아동/청소년 풀배터리",
