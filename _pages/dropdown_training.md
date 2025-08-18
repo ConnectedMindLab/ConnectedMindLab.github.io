@@ -18,5 +18,5 @@ children:
     permalink: /timingbalance/
   - title: divider
   - title: 미주신경 자극법
-    permalink: /biofeedback/
+    permalink: /tVNS/
 ---

@@ -14,9 +14,6 @@ children:
   - title: 글읽기검사
     permalink: /reading_test/
   - title: divider
-  - title: 성인인지기능검사
-    permalink: /first_assessment/
-  - title: divider
   - title: 아동/청소년 풀배터리
     permalink: /fullbattery/
 ---
