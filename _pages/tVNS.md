@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 바이오피드백
-permalink: /biofeedback/
+title: 미주신경자극법
+permalink: /tVNS/
 nav: false
 ---
 

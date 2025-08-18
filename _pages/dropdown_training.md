@@ -12,11 +12,11 @@ children:
     permalink: /biofeedback/
   - title: divider
   - title: 전산화 인지훈련
-    permalink: /biofeedback/
+    permalink: /rehacom/
   - title: divider
   - title: 감각통합훈련
-    permalink: /biofeedback/
+    permalink: /timingbalance/
   - title: divider
-  - title: 시지각 & 글 읽기 훈련
+  - title: 미주신경 자극법
     permalink: /biofeedback/
 ---

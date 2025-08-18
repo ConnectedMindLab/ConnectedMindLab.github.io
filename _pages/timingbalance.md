@@ -1,7 +1,7 @@
 ---
-layout: page
-title: 바이오피드백
-permalink: /biofeedback/
+layout: book-shelf
+title: 감각통합훈련
+permalink: /timingbalance/
 nav: false
 ---
 
