@@ -3,7 +3,6 @@ layout: book-shelf
 title: 바이오피드백
 permalink: /biofeedback/
 nav: false
-collection: books
 ---
 
 ## HRV란?
@@ -43,5 +42,5 @@ collection: books
 >4.	자가조절 습득: 반복 훈련을 통해 실제 생활에서도 스트레스를 효과적으로 다루는 능력 향상
 
 <br>
-<img src="/assets/img/hrvBio.png" alt="뉴로피드백 훈련 과정" width="600px" height="auto">
+<img src="/assets/img/hrvBio2.png" alt="바이오피드백 훈련 과정" width="600px" height="auto">
 
