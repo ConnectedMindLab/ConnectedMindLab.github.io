@@ -28,17 +28,17 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/biofeedback/";
+                window.location.href = "/rehacom/";
               },
             },{id: "dropdown-감각통합훈련",
               title: "감각통합훈련",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/biofeedback/";
+                window.location.href = "/timingbalance/";
               },
-            },{id: "dropdown-시지각-amp-글-읽기-훈련",
-              title: "시지각 &amp; 글 읽기 훈련",
+            },{id: "dropdown-미주신경-자극법",
+              title: "미주신경 자극법",
               description: "",
               section: "Dropdown",
               handler: () => {
