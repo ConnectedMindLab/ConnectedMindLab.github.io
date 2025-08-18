@@ -1,13 +1,23 @@
 ---
-layout: book-shelf
-title: 글읽기검사
+layout: page
+title: 안구운동 기반 글 읽기 검사
 permalink: /reading_test/
 nav: false
-collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+## 안구운동 기반 글읽기 검사란?
 
-## Books that I am reading, have read, or will read
+>안구운동 시선 추적 기술을 사용하여 글을 읽는 동안의 안구운동을 실시간으로 측정하고 분석하는 검사입니다. 단순히 읽기 점수를 매기는 것을 넘어, 안구의 고정 횟수, 고정 시간, 안구의 역행 횟수, 양 눈의 협응 및 읽기 속도, 눈의 깜빡임 등을 분석하여 개인의 읽기 습관과 인지적 강점/약점을 객관적인 데이터를 제공합니다. 이를 바탕으로 자신의 연령대에 비교하여 읽구 수준을 분석하고, 읽기 능력의 근본적인 원인을 정확히 진단하는 데 도움을 줍니다. 또한, 각 개인에게 최적화된 맞춤형 훈련 프로그램을 설계하고 효과적인 읽기 전략을 세울 수 있습니다.
+
+## 안구운동 분석을 통한 인지과정 이해
+>글읽기는 단순히 글자를 눈으로 훑는 행위를 넘어, 복잡한 인지 과정이 동시에 일어나는 활동입니다. 글을 읽을 때 우리의 눈은 일정한 패턴으로 움직이는데, 이 안구운동은 글을 이해하고 처리하는 두뇌의 활동을 그대로 반영합니다.
+
+## 안구운동과 인지과정의 관계
+>사람이 글을 읽을 때 안구운동은 크게 두 가지로 나뉩니다.
+
+>-	주시(Fixation): 눈을 멈추고 글자에 집중하는 순간입니다. 이 짧은 시간 동안 우리의 뇌는 글자를 인식하고 의미를 파악합니다. 글을 읽는 속도가 느리거나 이해력이 떨어지는 경우, 주시 시간이 길어지거나 주시 횟수가 많아집니다.
+
+>-	도약(Saccade): 한 글자에서 다음 글자로 눈을 빠르게 이동시키는 움직임입니다. 이 움직임은 의미를 파악하는 주시와 달리, 글자 자체를 인식하는 과정은 포함하지 않습니다. 읽기에 어려움이 있는 경우, 도약의 폭이 불규칙하거나 뒤로 되돌아가는 역행 도약이 자주 발생합니다.
+
+>이처럼 안구운동의 패턴(주시 시간, 도약 횟수, 역행 도약 빈도 등)을 분석하면, 읽기 능력의 표면적인 문제(속도, 정확성)뿐만 아니라 그 원인이 되는 인지적 문제(주의력, 작업기억, 시지각 처리 능력)까지 파악할 수 있습니다.
+
