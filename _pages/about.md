@@ -59,5 +59,12 @@ latest_posts:
 [카카오 채널](https://pf.kakao.com/_lEhmn) 
 <br>
 [네이버 지도](https://naver.me/5b0Ik2D4) 
+
+
 <br>
-[Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+협력 기관
+
+
+<img src="assets/img/YS_ilsan.png" alt="마음이음 인지과학 연구소 주소" width="200" height="auto">
+연세최의겸정신과의원 & 연세최의겸상담센터
+<br>
