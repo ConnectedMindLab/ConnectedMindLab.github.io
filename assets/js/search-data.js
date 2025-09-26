@@ -466,14 +466,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-마음이음-인지과학-연구소-오픈",
+            },},{id: "news-마음이음-인지과학-연구소-오픈",
           title: '마음이음 인지과학 연구소 오픈',
           description: "",
           section: "News",},{id: "news-협력기관-제휴-연세최의겸-정신과의원-amp-amp-연세최의겸-상담센터",
           title: '협력기관 제휴 : 연세최의겸 정신과의원 &amp;amp;amp; 연세최의겸 상담센터',
+          description: "",
+          section: "News",},{id: "news-협력기관-제휴-임팩트-aba-의사소통-연구소",
+          title: '협력기관 제휴 : 임팩트 ABA 의사소통 연구소',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
