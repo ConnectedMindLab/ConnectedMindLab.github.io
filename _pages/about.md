@@ -71,3 +71,6 @@ latest_posts:
 <img src="assets/img/impact_logo.jpeg" alt="마음이음 인지과학 연구소 주소" width="100" height="auto">
 임팩트 ABA 의사소통연구소
 <br>
+<img src="assets/img/snu_ui_download.png" alt="마음이음 인지과학 연구소 주소" width="100" height="auto">
+서울대학교 심리학과 사고와 언어 연구실
+<br>
