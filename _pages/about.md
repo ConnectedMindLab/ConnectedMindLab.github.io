@@ -21,7 +21,7 @@ profile:
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -67,11 +67,11 @@ latest_posts:
 <img src="assets/img/snu.jpg" alt="마음이음 인지과학 연구소 주소" width="70" height="auto">
 서울대학교 심리학과 사고와 언어 연구실
 <br>
-<img src="assets/img/YS_ilsan.png" alt="마음이음 인지과학 연구소 주소" width="200" height="auto">
-연세최의겸정신과의원 & 연세최의겸상담센터
-<br>
 <img src="assets/img/impact_logo.jpeg" alt="마음이음 인지과학 연구소 주소" width="100" height="auto">
 임팩트 ABA 의사소통연구소
+<br>
+<img src="assets/img/YS_ilsan.png" alt="마음이음 인지과학 연구소 주소" width="200" height="auto">
+연세최의겸정신과의원 & 연세최의겸상담센터
 <br>
 <br>
 <br>

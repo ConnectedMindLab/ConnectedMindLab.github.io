@@ -6,8 +6,40 @@ nav: false
 collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+> 아동·청소년 풀배터리 검사는 아이의 전반적인 발달과 심리·인지적 기능을 종합적으로 평가하는 검사입니다. 단순히 지능이나 성격만 보는 것이 아니라, 학습 능력, 정서 상태, 주의력, 가족 관계, 사회성까지 폭넓게 살펴볼 수 있어, 아이의 현재 상태를 깊이 이해하고 맞춤형 도움을 제공할 수 있습니다. 
+>풀배터리 검사는 아이의 마음과 두뇌를 가장 폭넓게 들여다볼 수 있는 종합 검사로 단순히 ‘문제가 있다/없다’를 확인하는 것이 아니라, 아이의 발달적 강점과 현재 어려움을 정확히 파악하여 앞으로의 성장 방향을 함께 고민하는 과정입니다.아이의 생활 전반과 연결하여 의미를 해석함으로써, 학교생활 지원, 학습 지도, 부모 상담, 심리치료 등 구체적인 치료 및 교육 방향 제시하는데 도움이 됩니다.
 
-## Books that I am reading, have read, or will read
+
+## 검사 영역
+> 풀배터리 검사는 여러 심리검사들을 조합하여 진행합니다. 아이의 연령과 필요에 따라 포함되는 세부 검사가 달라지지만, 보통 다음과 같은 영역이 포함됩니다.
+
+>지능 및 인지 발달
+>- K-WISC-V (아동용 지능검사) : 기억력, 문제 해결력, 처리 속도 등
+>- 주의력 및 실행기능 : CAT(종합 주의력 검사), Stroop Test, Trail Making Test 등
+
+>정서 및 성격
+>- 아동·청소년 행동평가척도 (CBCL, K-BASC)
+>- MMPI-A (청소년 성격검사)
+>- J-TIC(기질 및 성격 검사)
+>- 불안·우울 척도
+
+>학습 및 적응
+>- 학습유형검사, 학습장애 관련 평가
+>- 글 읽기 검사 
+
+
+## 검사 진행 안내
+>- 소요 시간: 2~3시간 (상황에 따라 2회기로 나누어 진행하기도 합니다)
+>- 대상: 만 5세 이상 아동부터 청소년까지
+>- 방법: 개별 검사(심리사와 1:1), 설문지, 부모 면담 등으로 진행
+>- 결과 보고: 검사 종료 후 1~2주 내 전문 해석 보고서 제공 및 피드백 상담 진행
+
+
+## 이런 경우 풀배터리 검사가 필요해요
+
+- 아이의 강점과 잠재력을 객관적으로 파악하고 싶을 때
+- 집중력 부족, 충동 조절 문제, 학습 부진이 의심될 때
+- 불안, 우울, 분노 등 정서적 어려움이 반복될 때
+- 학교생활이나 또래 관계에서 적응이 힘들어할 때
+- 발달 지연이나 특수한 학습·발달 문제가 걱정될 때
+
