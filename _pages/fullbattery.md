@@ -1,9 +1,8 @@
 ---
-layout: book-shelf
+layout: page
 title: 풀배터리검사
 permalink: /fullbattery/
 nav: false
-collection: books
 ---
 
 > 아동·청소년 풀배터리 검사는 아이의 전반적인 발달과 심리·인지적 기능을 종합적으로 평가하는 검사입니다. 단순히 지능이나 성격만 보는 것이 아니라, 학습 능력, 정서 상태, 주의력, 가족 관계, 사회성까지 폭넓게 살펴볼 수 있어, 아이의 현재 상태를 깊이 이해하고 맞춤형 도움을 제공할 수 있습니다. 
