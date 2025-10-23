@@ -14,7 +14,6 @@ profiles:
     content: about_profile1.md
     image_circular: false # crops the image to make it circular
 
-   
   
   - align: left
     image: logo1.png
@@ -22,14 +21,10 @@ profiles:
     image_circular: false # crops the image to make it circular
 
 
-
   - align: right
     image: logo1.png
     content: about_profile3.md
     image_circular: false # crops the image to make it circular
-
-  
-
 
 
   - align: left
@@ -38,7 +33,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
 
-    - align: right
+  - align: right
     image: logo1.png
     content: about_profile5.md
     image_circular: false # crops the image to make it circular
