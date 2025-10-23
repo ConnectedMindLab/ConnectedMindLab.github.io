@@ -37,4 +37,12 @@ profiles:
     content: about_profile4.md
     image_circular: false # crops the image to make it circular
 
+
+    - align: right
+    image: logo1.png
+    content: about_profile5.md
+    image_circular: false # crops the image to make it circular
+
+  
+
 ---

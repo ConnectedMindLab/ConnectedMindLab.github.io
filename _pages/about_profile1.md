@@ -7,3 +7,5 @@
 한국심리학회 정회원
 <br>
 서울대 언어와 사고 실험 연구실 연구원
+<br>
+서울대 Functional Brain Imaging Lab 연구원
