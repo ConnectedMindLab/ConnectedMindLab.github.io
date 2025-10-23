@@ -72,7 +72,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/fullbattery/";
               },
-            },{id: "nav-blog",
+            },{id: "nav-구성원들",
+          title: "구성원들",
+          description: "members of the lab or group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-blog",
           title: "Blog",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
