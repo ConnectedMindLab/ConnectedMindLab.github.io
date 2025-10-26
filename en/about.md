@@ -1,7 +1,7 @@
 ---
 layout: about
 title: 소개
-permalink: /en/about/
+permalink: en/about
 lang: en
 subtitle: 서울 보라매 센터
 
