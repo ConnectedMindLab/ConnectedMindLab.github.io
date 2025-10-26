@@ -135,6 +135,38 @@
               </button>
             </li>
           {% endif %}
+          
+          {% assign current_path = page.permalink | split: '/' %}
+          {% assign current_lang_path = current_path[1] %}
+
+          {% if current_path.size <= 2 %}
+            {% assign current_lang = "ko" %}
+            {% assign target_lang = "en" %}
+            {% assign current_title = "Korean" %}
+            {% assign target_title = "English" %}
+          {% elsif current_lang_path == "en" %}
+            {% assign current_lang = "en" %}
+            {% assign target_lang = "ko" %}
+            {% assign current_title = "English" %}
+            {% assign target_title = "Korean" %}
+          {% else %}
+            {% assign current_lang = "ko" %}
+            {% assign target_lang = "en" %}
+            {% assign current_title = "Korean" %}
+            {% assign target_title = "English" %}
+          {% endif %}
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownLang" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Language">
+              <i class="fas fa-globe-asia" aria-hidden="true"></i> {{ current_title }}
+            </a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownLang">
+              <a class="dropdown-item" href="{% if target_lang == 'ko' %}/{{ page.permalink | split: '/' | last }}{% else %}/{{ target_lang }}{{ page.permalink | replace: current_lang, "" }}{% endif %}{{ page.permalink | relative_url }}">
+                <i class="fas fa-globe-asia" aria-hidden="true"></i> {{ target_title }}
+              </a>
+            </div>
+          </li>
+
         </ul>
       </div>
     </div>

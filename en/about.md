@@ -1,8 +1,8 @@
 ---
 layout: about
 title: 소개
-permalink: /
-lang: ko
+permalink: /en/about/
+lang: en
 subtitle: 서울 보라매 센터
 
 profile:
