@@ -161,8 +161,8 @@
               <i class="fas fa-globe-asia" aria-hidden="true"></i> {{ current_title }}
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownLang">
-              <a class="dropdown-item" href="{% if target_lang == 'ko' %}/{{ page.permalink | split: '/' | last }}{% else %}/{{ target_lang }}{{ page.permalink | replace: current_lang, "" }}{% endif %}{{ page.permalink | relative_url }}">
-                <i class="fas fa-globe-asia" aria-hidden="true"></i> {{ target_title }}
+              <a class="dropdown-item" href="{% assign target_permalink = page.permalink | replace: current_lang_path, target_lang %}{{ target_permalink | relative_url }}">
+                <i class="fas fa-globe-asia" aria-hidden="true"></i> {{ target_title }}                
               </a>
             </div>
           </li>
