@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:
 
 Sitemap: https://connectedmindlab.github.io/sitemap.xml
