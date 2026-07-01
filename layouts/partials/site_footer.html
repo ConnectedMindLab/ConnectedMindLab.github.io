@@ -1,0 +1,36 @@
+<footer class="site-footer">
+
+  {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
+
+  {{/* Load footer block */}}
+  {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
+  {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
+  {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
+    {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
+  {{ end }}
+  {{ partial $footer_section_path . }}
+
+  {{/* Social icons */}}
+  <div style="text-align:center; padding: 0.5rem 0 1rem;">
+    <a href="mailto:connectedmind@naver.com"
+       title="이메일"
+       style="margin: 0 0.6rem; color: inherit; opacity: 0.7; transition: opacity 0.2s;"
+       onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'">
+      <i class="fas fa-envelope fa-lg"></i>
+    </a>
+    <a href="tel:02-6956-1016"
+       title="전화"
+       style="margin: 0 0.6rem; color: inherit; opacity: 0.7; transition: opacity 0.2s;"
+       onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'">
+      <i class="fas fa-phone fa-lg"></i>
+    </a>
+    <a href="https://pf.kakao.com/_lEhmn"
+       target="_blank" rel="noopener noreferrer"
+       title="카카오톡 채널"
+       style="margin: 0 0.6rem; color: inherit; opacity: 0.7; transition: opacity 0.2s;"
+       onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'">
+      <i class="fas fa-comment fa-lg"></i>
+    </a>
+  </div>
+
+</footer>

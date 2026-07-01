@@ -1,0 +1,88 @@
+main:
+  - name: About
+    url: /en/about/
+    weight: 10
+
+  - name: Training Programs
+    identifier: programs
+    weight: 20
+  - name: ADHD & Neurodevelopmental
+    url: /en/programs/adhd/
+    parent: programs
+    weight: 21
+  - name: High-Functioning Children
+    url: /en/programs/gifted/
+    parent: programs
+    weight: 22
+  - name: Adult Peak Performance
+    url: /en/programs/adult/
+    parent: programs
+    weight: 23
+
+  - name: Cognitive Assessment
+    identifier: assessment
+    weight: 30
+  - name: ConnectedMind Cognitive Profiling
+    url: /en/assessment/fullbattery/
+    parent: assessment
+    weight: 1
+  - name: QEEG Brain Function
+    url: /en/assessment/qeeg/
+    parent: assessment
+    weight: 2
+  - name: Comprehensive Attention Test
+    url: /en/assessment/cat/
+    parent: assessment
+    weight: 3
+  - name: Intelligence Test
+    url: /en/assessment/iq/
+    parent: assessment
+    weight: 4
+  - name: Eye Movement Reading Test
+    url: /en/assessment/reading/
+    parent: assessment
+    weight: 5
+
+  - name: Equipment
+    identifier: equipment
+    weight: 40
+  - name: Neurofeedback
+    url: /en/equipment/neurofeedback/
+    parent: equipment
+    weight: 41
+  - name: Biofeedback HRV
+    url: /en/equipment/biofeedback/
+    parent: equipment
+    weight: 42
+  - name: tVNS
+    url: /en/equipment/tvns/
+    parent: equipment
+    weight: 43
+  - name: Sensory Integration Training
+    url: /en/equipment/gymtop/
+    parent: equipment
+    weight: 44
+  - name: Computer-Based Training (CBT)
+    url: /en/equipment/rehacom/
+    parent: equipment
+    weight: 46
+
+  - name: Research
+    url: /en/research/
+    weight: 50
+
+  - name: People
+    url: /en/people/
+    weight: 55
+
+  - name: Cognitive Science Column
+    url: /en/column/
+    weight: 65
+
+  - name: Contact
+    url: /en/contact/
+    weight: 70
+
+  - name: FAQ
+    url: /en/faq/
+    weight: 80

@@ -1,0 +1,46 @@
+// =============================================================
+// 기본안 색상 백업 (minimal 테마 기본값)
+// 저장 일자: 2026-07-01
+// 복원 방법: 이 파일의 값을 custom.scss에 덮어쓰기
+// =============================================================
+
+// Hugo Blox "minimal" 테마 기본 CSS 변수
+// 출처: public/css/wowchemy.css 컴파일 결과
+//
+// :root {
+//   --primary: #1565c0;        /* 포인트 색상 (파란색) */
+// }
+//
+// body {
+//   color: #212529;            /* 기본 텍스트 색 (다크 차콜) */
+//   background-color: #fff;    /* 배경색 (순백) */
+// }
+//
+// a {
+//   color: #1565c0;            /* 링크 색상 */
+// }
+//
+// a:hover {
+//   color: #0d417b;            /* 링크 호버 */
+// }
+//
+// .btn-primary {
+//   background-color: #1565c0;
+//   border-color: #1565c0;
+// }
+//
+// .navbar {
+//   background: rgba(255,255,255,0.85);  /* 반투명 흰 배경 */
+//   color: #212529;
+// }
+//
+// h1, h2, h3, h4, h5, h6 {
+//   color: inherit; /* 부모 color 상속, 실질적으로 #212529 */
+// }
+//
+// params.yaml 설정:
+//   appearance:
+//     theme_day: minimal
+//     theme_night: (비어 있음 — 다크모드 없음)
+//     font: native
+//     font_size: L

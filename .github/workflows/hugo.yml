@@ -1,0 +1,71 @@
+name: Deploy Hugo Site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # 매일 오전 6시 KST (UTC 21:00) 자동 빌드
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Fetch Naver Blog RSS
+        run: |
+          python3 - <<'EOF'
+          import urllib.request, xml.etree.ElementTree as ET, json, os
+
+          url = 'https://rss.blog.naver.com/connectedmind.xml'
+          try:
+              with urllib.request.urlopen(url, timeout=15) as r:
+                  tree = ET.parse(r)
+              root = tree.getroot()
+              channel = root.find('channel')
+              items = []
+              for item in list(channel.findall('item'))[:5]:
+                  items.append({
+                      'title':   (item.findtext('title')   or '').strip(),
+                      'link':    (item.findtext('link')    or '').strip(),
+                      'pubDate': (item.findtext('pubDate') or '').strip()
+                  })
+          except Exception as e:
+              print(f'RSS fetch failed: {e}')
+              items = []
+
+          os.makedirs('data', exist_ok=True)
+          with open('data/naver_blog.json', 'w', encoding='utf-8') as f:
+              json.dump({'items': items}, f, ensure_ascii=False, indent=2)
+          print(f'Saved {len(items)} items')
+          EOF
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

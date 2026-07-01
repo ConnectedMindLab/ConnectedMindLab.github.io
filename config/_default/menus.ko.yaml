@@ -1,0 +1,92 @@
+main:
+  - name: 소개
+    url: /ko/about/
+    weight: 10
+
+  - name: 훈련 프로그램
+    identifier: programs
+    weight: 20
+  - name: ADHD·신경발달
+    url: /ko/programs/adhd/
+    parent: programs
+    weight: 21
+  - name: 고기능 아동
+    url: /ko/programs/gifted/
+    parent: programs
+    weight: 22
+  - name: 성인 Peak Performance
+    url: /ko/programs/adult/
+    parent: programs
+    weight: 23
+
+  - name: 인지능력검사
+    identifier: assessment
+    weight: 30
+  - name: 마음이음 인지프로파일링
+    url: /ko/assessment/fullbattery/
+    parent: assessment
+    weight: 1
+  - name: QEEG 뇌기능 검사
+    url: /ko/assessment/qeeg/
+    parent: assessment
+    weight: 2
+  - name: 종합주의력검사
+    url: /ko/assessment/cat/
+    parent: assessment
+    weight: 3
+  - name: 지능검사
+    url: /ko/assessment/iq/
+    parent: assessment
+    weight: 4
+  - name: 안구운동 글읽기 검사
+    url: /ko/assessment/reading/
+    parent: assessment
+    weight: 5
+
+  - name: 훈련장비
+    identifier: equipment
+    weight: 40
+  - name: 뉴로피드백 장비
+    url: /ko/equipment/neurofeedback/
+    parent: equipment
+    weight: 41
+  - name: 바이오피드백 HRV
+    url: /ko/equipment/biofeedback/
+    parent: equipment
+    weight: 42
+  - name: 미주신경자극기
+    url: /ko/equipment/tvns/
+    parent: equipment
+    weight: 43
+  - name: 감각통합훈련
+    url: /ko/equipment/gymtop/
+    parent: equipment
+    weight: 44
+  - name: 전산화인지훈련 (CBT)
+    url: /ko/equipment/rehacom/
+    parent: equipment
+    weight: 46
+
+  - name: Research
+    url: /ko/research/
+    weight: 50
+
+  - name: People
+    url: /ko/people/
+    weight: 55
+
+  - name: Blog
+    url: /ko/blog/
+    weight: 60
+
+  - name: 인지과학칼럼
+    url: /ko/column/
+    weight: 65
+
+  - name: Contact
+    url: /ko/contact/
+    weight: 70
+
+  - name: FAQ
+    url: /ko/faq/
+    weight: 80

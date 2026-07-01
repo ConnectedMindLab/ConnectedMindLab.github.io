@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: minimal   # B안 색상은 assets/scss/custom.scss에서 덮어씀
+  theme_night:         # 비워두면 다크모드 비활성 (B안과 충돌 방지)
   font: native
   font_size: L
 
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: '마음이음 인지과학 연구소'
+    description: "마음이음 인지과학 연구소 — 뉴로피드백, 바이오피드백, 인지훈련 전문 센터. ConnectedMind Cognitive Science Institute."
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,7 +36,7 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
@@ -44,13 +44,11 @@ header:
 # Site footer
 
 footer:
+  show_powered_by: false
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2025 마음이음 인지과학 연구소. All rights reserved.'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      enable: false
 
 # Localization
 
@@ -60,6 +58,9 @@ locale:
   address_format: en-us
 
 # Site features
+
+sharing:
+  enable: false
 
 features:
   syntax_highlighter:
