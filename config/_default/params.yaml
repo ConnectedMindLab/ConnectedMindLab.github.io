@@ -46,7 +46,7 @@ header:
 footer:
   show_powered_by: false
   copyright:
-    notice: '© 2025 마음이음 인지과학 연구소. All rights reserved.'
+    notice: '© 2025 ConnectedMind. All rights reserved.'
     license:
       enable: false
 

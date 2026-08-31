@@ -62,7 +62,7 @@ main:
     url: /en/equipment/gymtop/
     parent: equipment
     weight: 44
-  - name: Computer-Based Training (CBT)
+  - name: Computer-Based Cognitive Training (CBCT)
     url: /en/equipment/rehacom/
     parent: equipment
     weight: 46

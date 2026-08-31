@@ -10,9 +10,9 @@ tags: ["Neurofeedback", "Cognitive Training", "DSM", "RDoC", "Psychopathology", 
 
 The current standard in mental health clinical practice is the DSM (Diagnostic and Statistical Manual of Mental Disorders). The DSM classifies mental disorders based on the type, frequency, and duration of symptoms, and it holds clear practical value for communication among clinicians and for research categorization.
 
-However, the DSM has structural limitations. The most fundamental problem is its **categorical approach**. The DSM draws a binary line — if a certain number of symptoms are present, the disorder is "present"; if not, it is "absent." Yet in actual clinical practice, psychopathology is distributed along a continuum. Difficulties in attentional regulation, vulnerability in emotional regulation, and cognitive rigidity all form a spectrum regardless of diagnostic status.
+However, the DSM has structural limitations. The most fundamental problem is its categorical approach. The DSM draws a binary line — if a certain number of symptoms are present, the disorder is "present"; if not, it is "absent." Yet in actual clinical practice, psychopathology is distributed along a continuum. Difficulties in attentional regulation, vulnerability in emotional regulation, and cognitive rigidity all form a spectrum regardless of diagnostic status.
 
-The second problem is **comorbidity**. Receiving a single diagnosis in clinical settings is the exception rather than the rule. Between 60 and 80 percent of children with ADHD receive one or more comorbid diagnoses (Pliszka, 2015), and the comorbidity rate between anxiety disorders and depressive disorders exceeds 50 percent. This suggests that DSM categories do not align with actual neurobiological boundaries.
+The second problem is comorbidity. Receiving a single diagnosis in clinical settings is the exception rather than the rule. Between 60 and 80 percent of children with ADHD receive one or more comorbid diagnoses (Pliszka, 2015), and the comorbidity rate between anxiety disorders and depressive disorders exceeds 50 percent. This suggests that DSM categories do not align with actual neurobiological boundaries.
 
 The third problem is the absence of mechanism. The DSM describes *what* appears, but does not explain *why* or *how* it appears. A diagnostic label is a description of a phenomenon, not an explanation of the mechanisms that generate it.
 
@@ -20,9 +20,9 @@ The third problem is the absence of mechanism. The DSM describes *what* appears,
 
 ## 2. RDoC: A Mechanism-Centered Alternative Classification System
 
-The most systematic response to these limitations is the **RDoC (Research Domain Criteria)**, proposed by the NIMH (National Institute of Mental Health) in 2010 (Insel et al., 2010).
+The most systematic response to these limitations is the RDoC (Research Domain Criteria), proposed by the NIMH (National Institute of Mental Health) in 2010 (Insel et al., 2010).
 
-RDoC rests on two core premises. First, psychopathology must be understood along a continuum of brain and behavioral function. Second, research on mental disorders should be organized around **functional domains**, not DSM diagnostic categories.
+RDoC rests on two core premises. First, psychopathology must be understood along a continuum of brain and behavioral function. Second, research on mental disorders should be organized around functional domains, not DSM diagnostic categories.
 
 RDoC proposes five domains:
 
@@ -56,9 +56,9 @@ Emotion Regulation Capacity: the ability to recognize and modulate internal emot
 
 The most systematic elaboration of the cognitive model at the individual level is Aaron Beck's cognitive therapy theory (Beck, 1979). Beck proposed that emotional disorders are maintained by content-specific dysfunctional cognitive schemas. In depression, the negative cognitive triad regarding the self, the world, and the future is central; in anxiety disorders, the overestimation of threat and underestimation of coping ability are key.
 
-Clark and Beck (2010) integrated these into a **Unified Cognitive Theory of Anxiety**, explaining within a single framework the cognitive-emotional processing that operates across the various subtypes of anxiety. Central to this theory is the imbalance between automatic processing and elaborative processing of threat-relevant information.
+Clark and Beck (2010) integrated these into a Unified Cognitive Theory of Anxiety, explaining within a single framework the cognitive-emotional processing that operates across the various subtypes of anxiety. Central to this theory is the imbalance between automatic processing and elaborative processing of threat-relevant information.
 
-This perspective carries important implications for cognitive training. Dysfunctional schemas are not fixed entities; they are **processing patterns**. Processing patterns are shaped by experience and can therefore be changed through systematic intervention.
+This perspective carries important implications for cognitive training. Dysfunctional schemas are not fixed entities; they are processing patterns. Processing patterns are shaped by experience and can therefore be changed through systematic intervention.
 
 ---
 

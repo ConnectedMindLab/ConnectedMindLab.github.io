@@ -62,7 +62,7 @@ main:
     url: /ko/equipment/gymtop/
     parent: equipment
     weight: 44
-  - name: 전산화인지훈련 (CBT)
+  - name: 전산화인지훈련 (CBCT)
     url: /ko/equipment/rehacom/
     parent: equipment
     weight: 46

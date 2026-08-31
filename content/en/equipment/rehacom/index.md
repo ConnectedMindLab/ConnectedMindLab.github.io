@@ -1,15 +1,15 @@
 ---
-title: "Computer-Based Training (CBT)"
+title: "Computer-Based Cognitive Training (CBCT)"
 date: 2026-07-01
 ---
 
-## What is Computer-Based Training (CBT)?
+## What is Computer-Based Cognitive Training (CBCT)?
 
-Computer-Based Training (CBT) is a program that systematically trains specific cognitive abilities — including attention, memory, executive function, and processing speed — using digital devices such as computers, tablets, and smartphones.
+Computer-Based Cognitive Training (CBCT) is a program that systematically trains specific cognitive abilities — including attention, memory, executive function, and processing speed — using digital devices such as computers, tablets, and smartphones.
 
-Just as physical exercise improves fitness through repeated use of the body, CBT is grounded in the theory of neuroplasticity: the idea that cognitive abilities can be maintained or improved through deliberate and structured use of the brain.
+Just as physical exercise improves fitness through repeated use of the body, CBCT is grounded in the theory of neuroplasticity: the idea that cognitive abilities can be maintained or improved through deliberate and structured use of the brain.
 
-At ConnectedMind Cognitive Science Institute, we use CBT programs and visual-perceptual training tools to deliver individually tailored cognitive training.
+At ConnectedMind Cognitive Science Institute, we use CBCT programs and visual-perceptual training tools to deliver individually tailored cognitive training.
 
 ### Training Principles
 
