@@ -1,30 +1,176 @@
-// Hide share buttons
-.share-box {
-  display: none !important;
-}
+// ── 기존 유틸리티 ────────────────────────────────────────────────────────────
 
-// Make page header alignment consistent with widget page header alignment
-.universal-wrapper h1 {
-  text-align: center;
-}
+.share-box { display: none !important; }
 
-// Center the CTA shortcode button
-.cta-group {
-  justify-content: center;
-}
+.universal-wrapper h1 { text-align: center; }
 
-// Responsive text containers for markdown sections
+.cta-group { justify-content: center; }
+
 .wg-markdown .col-12 {
   max-width: 90%;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
-
 @media (max-width: 768px) {
   .wg-markdown .col-12 {
     max-width: 100%;
     padding-left: 1rem;
     padding-right: 1rem;
   }
+}
+
+// ── 컬러 토큰: 한국어(포레스트 그린+크림) / 영문(네이비+스틸블루) ────────────
+
+html[lang="ko-KR"] {
+  --color-primary: #3D6B52;
+  --color-primary-dark: #2A3D35;
+  --color-accent:  #E2CF9E;
+}
+
+html[lang="en"] {
+  --color-primary: #3A6080;
+  --color-primary-dark: #1D2B3A;
+  --color-accent:  #9BB4C8;
+}
+
+// ── 네비게이션 ───────────────────────────────────────────────────────────────
+
+html[lang="ko-KR"] .navbar {
+  background-color: #2A3D35 !important;
+  border-bottom: 1px solid rgba(226, 207, 158, 0.12);
+}
+html[lang="ko-KR"] .navbar .nav-link,
+html[lang="ko-KR"] .navbar-brand {
+  color: #D4C28A !important;
+}
+html[lang="ko-KR"] .navbar .nav-link:hover,
+html[lang="ko-KR"] .navbar .nav-link.active {
+  color: #fff !important;
+}
+html[lang="ko-KR"] .navbar-toggler-icon {
+  filter: invert(1);
+}
+
+html[lang="en"] .navbar {
+  background-color: #1D2B3A !important;
+  border-bottom: 1px solid rgba(155, 180, 200, 0.12);
+}
+html[lang="en"] .navbar .nav-link,
+html[lang="en"] .navbar-brand {
+  color: #8AAFC6 !important;
+}
+html[lang="en"] .navbar .nav-link:hover,
+html[lang="en"] .navbar .nav-link.active {
+  color: #fff !important;
+}
+html[lang="en"] .navbar-toggler-icon {
+  filter: invert(1);
+}
+
+// ── 페이지 배경: 한국어 = 크림 워밍, 영문 = 기본 ────────────────────────────
+
+html[lang="ko-KR"] body {
+  background-color: #F8F5EF;
+}
+
+// ── 버튼 ─────────────────────────────────────────────────────────────────────
+
+html[lang="ko-KR"] .btn-primary,
+html[lang="ko-KR"] a.btn-primary {
+  background-color: #2A3D35 !important;
+  border-color: #2A3D35 !important;
+  color: #E2CF9E !important;
+}
+html[lang="ko-KR"] .btn-primary:hover,
+html[lang="ko-KR"] a.btn-primary:hover {
+  background-color: #3D6B52 !important;
+  border-color: #3D6B52 !important;
+}
+html[lang="ko-KR"] .btn-outline-primary {
+  border-color: #2A3D35 !important;
+  color: #2A3D35 !important;
+}
+html[lang="ko-KR"] .btn-outline-primary:hover {
+  background-color: #2A3D35 !important;
+  color: #E2CF9E !important;
+}
+
+html[lang="en"] .btn-primary,
+html[lang="en"] a.btn-primary {
+  background-color: #1D2B3A !important;
+  border-color: #1D2B3A !important;
+  color: #9BB4C8 !important;
+}
+html[lang="en"] .btn-primary:hover,
+html[lang="en"] a.btn-primary:hover {
+  background-color: #2A3F58 !important;
+  border-color: #2A3F58 !important;
+}
+html[lang="en"] .btn-outline-primary {
+  border-color: #1D2B3A !important;
+  color: #1D2B3A !important;
+}
+html[lang="en"] .btn-outline-primary:hover {
+  background-color: #1D2B3A !important;
+  color: #9BB4C8 !important;
+}
+
+// ── 섹션 헤딩·링크 색상 ──────────────────────────────────────────────────────
+
+html[lang="ko-KR"] .section-heading h1,
+html[lang="ko-KR"] .section-heading h2,
+html[lang="ko-KR"] .article-title,
+html[lang="ko-KR"] h1.page-title {
+  color: #2A3D35;
+}
+html[lang="ko-KR"] a {
+  color: #3D6B52;
+}
+html[lang="ko-KR"] a:hover {
+  color: #2A3D35;
+}
+
+html[lang="en"] .section-heading h1,
+html[lang="en"] .section-heading h2,
+html[lang="en"] .article-title,
+html[lang="en"] h1.page-title {
+  color: #1D2B3A;
+}
+html[lang="en"] a {
+  color: #3A6080;
+}
+html[lang="en"] a:hover {
+  color: #1D2B3A;
+}
+
+// ── 카드 배경 (한국어: 크림 워밍) ────────────────────────────────────────────
+
+html[lang="ko-KR"] .card {
+  background-color: #FDFAF4 !important;
+  border-color: rgba(42, 61, 53, 0.1) !important;
+}
+
+// ── 푸터 ─────────────────────────────────────────────────────────────────────
+
+html[lang="ko-KR"] footer.site-footer {
+  background-color: #2A3D35 !important;
+  color: rgba(226, 207, 158, 0.65);
+}
+html[lang="ko-KR"] footer.site-footer a {
+  color: #C8B88A !important;
+}
+html[lang="ko-KR"] footer.site-footer a:hover {
+  color: #E2CF9E !important;
+}
+
+html[lang="en"] footer.site-footer {
+  background-color: #1D2B3A !important;
+  color: rgba(155, 180, 200, 0.65);
+}
+html[lang="en"] footer.site-footer a {
+  color: #7A9EB8 !important;
+}
+html[lang="en"] footer.site-footer a:hover {
+  color: #9BB4C8 !important;
 }

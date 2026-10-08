@@ -64,6 +64,9 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Restore landing page
+        run: cp static/index.html public/index.html
+
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
