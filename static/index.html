@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>마음이음 인지과학 연구소</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body { height: 100%; }
+
+    .wrapper {
+      min-height: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .half {
+      flex: 1 0 50%;
+      min-height: 300px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 3.5rem 2rem;
+      text-decoration: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+      transition: filter 0.4s ease;
+    }
+
+    /* subtle dot texture */
+    .half::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image: radial-gradient(circle, rgba(255,255,255,0.035) 1px, transparent 1px);
+      background-size: 22px 22px;
+      pointer-events: none;
+    }
+
+    .center {
+      background-color: #2A3D35;
+    }
+    .center:hover {
+      filter: brightness(1.12);
+    }
+
+    .research {
+      background-color: #1D2B3A;
+    }
+    .research:hover {
+      filter: brightness(1.12);
+    }
+
+    /* divider */
+    .divider {
+      flex: 0 0 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      background: linear-gradient(to bottom, #2A3D35, #1D2B3A);
+    }
+    .divider::before,
+    .divider::after {
+      content: '';
+      flex: 1;
+      max-width: 100px;
+      height: 1px;
+      background: rgba(255,255,255,0.13);
+    }
+    .divider-name {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.58rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.28);
+      white-space: nowrap;
+    }
+
+    /* content */
+    .eyebrow {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.6rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      margin-bottom: 1.6rem;
+      text-align: center;
+    }
+    .center .eyebrow  { color: rgba(226, 207, 158, 0.55); }
+    .research .eyebrow { color: rgba(155, 180, 200, 0.55); }
+
+    .headline {
+      text-align: center;
+      line-height: 1.15;
+      margin-bottom: 1.1rem;
+    }
+    .center .headline {
+      font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'Nanum Gothic', sans-serif;
+      font-size: clamp(2.2rem, 4.5vw, 3.6rem);
+      font-weight: 500;
+      color: #E2CF9E;
+      letter-spacing: -0.03em;
+    }
+    .research .headline {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: clamp(2rem, 3.8vw, 3.2rem);
+      font-weight: 400;
+      color: #9BB4C8;
+      letter-spacing: 0.01em;
+    }
+
+    .tagline {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.83rem;
+      text-align: center;
+      line-height: 1.9;
+      margin-bottom: 2.4rem;
+    }
+    .center .tagline  { color: rgba(226, 207, 158, 0.6); }
+    .research .tagline { color: rgba(155, 180, 200, 0.6); }
+
+    .btn {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.7rem;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+      padding: 0.72em 2.2em;
+      border: 1px solid currentColor;
+      transition: background-color 0.22s ease, color 0.22s ease;
+      text-decoration: none;
+    }
+    .center .btn  { color: #E2CF9E; }
+    .research .btn { color: #9BB4C8; }
+
+    .center:hover .btn {
+      background-color: #E2CF9E;
+      color: #2A3D35;
+    }
+    .research:hover .btn {
+      background-color: #9BB4C8;
+      color: #1D2B3A;
+    }
+
+    @media (max-width: 600px) {
+      .half { min-height: 44vh; padding: 3rem 1.5rem; }
+      .divider { flex: 0 0 36px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .half, .btn { transition: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+
+    <a href="/ko/" class="half center">
+      <span class="eyebrow">Private · One-on-One · By Appointment</span>
+      <h1 class="headline">브레인 PT 센터</h1>
+      <p class="tagline">
+        번아웃 회복 &middot; 고기능 수행 최적화<br>
+        뉴로피드백 &middot; 바이오피드백 &middot; 인지훈련<br>
+        박사급 전문가의 1:1 맞춤 처방
+      </p>
+      <span class="btn">센터 바로가기</span>
+    </a>
+
+    <div class="divider">
+      <span class="divider-name">마음이음 인지과학 연구소</span>
+    </div>
+
+    <a href="/en/" class="half research">
+      <span class="eyebrow">Cognitive Neuroscience &middot; Clinical Research</span>
+      <h2 class="headline">ConnectedMind Lab</h2>
+      <p class="tagline">
+        Computational Modeling &middot; EEG &middot; Hyperscanning<br>
+        VR Research &middot; Clinical Neuroscience
+      </p>
+      <span class="btn">Research Portal</span>
+    </a>
+
+  </div>
+</body>
+</html>
