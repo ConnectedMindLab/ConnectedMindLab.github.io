@@ -3,45 +3,45 @@ main:
     url: /ko/about/
     weight: 10
 
-  - name: 훈련 프로그램
+  - name: Brain PT 프로그램
     identifier: programs
     weight: 20
-  - name: ADHD·신경발달
+  - name: Brain PT란?
+    url: /ko/programs/brainpt/
+    parent: programs
+    weight: 20
+  - name: Performance Brain PT
     url: /ko/programs/adhd/
     parent: programs
     weight: 21
-  - name: 고기능 아동
-    url: /ko/programs/gifted/
+  - name: Regulation & Recovery Brain PT
+    url: /ko/programs/adult/
     parent: programs
     weight: 22
-  - name: 성인 Peak Performance
-    url: /ko/programs/adult/
+  - name: 발달·자기조절 Brain PT
+    url: /ko/programs/gifted/
     parent: programs
     weight: 23
 
-  - name: 인지능력검사
+  - name: 평가 프로그램
     identifier: assessment
     weight: 30
-  - name: 마음이음 인지프로파일링
+  - name: 평가 프로그램 안내
     url: /ko/assessment/fullbattery/
     parent: assessment
-    weight: 1
-  - name: QEEG 뇌기능 검사
+    weight: 31
+  - name: QEEG 뇌파 검사
     url: /ko/assessment/qeeg/
     parent: assessment
-    weight: 2
-  - name: 종합주의력검사
+    weight: 32
+  - name: CAT 종합주의력검사
     url: /ko/assessment/cat/
     parent: assessment
-    weight: 3
+    weight: 33
   - name: 지능검사
     url: /ko/assessment/iq/
     parent: assessment
-    weight: 4
-  - name: 안구운동 글읽기 검사
-    url: /ko/assessment/reading/
-    parent: assessment
-    weight: 5
+    weight: 34
 
   - name: 훈련장비
     identifier: equipment

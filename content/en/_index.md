@@ -21,7 +21,7 @@ sections:
         url: /en/about/
     design:
       background:
-        color: black
+        color: '#1D2B3A'
         text_color_light: true
 
   - block: markdown
