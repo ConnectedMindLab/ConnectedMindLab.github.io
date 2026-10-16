@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Brain PT Studio
+title: Brain PT STUDIO in 대치
 baseURL: 'https://brainptstudio.com/'
 
 ############################
