@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Brain PT Studio <span style="color:#D4A853; font-size:0.65em;">in 대치</span>
+        Brain PT Studio <span style="color:#D4A853;">in 대치</span>
       text: |
         <br>
         <span style="white-space:nowrap">뇌와 마음을 읽고 최적의 수행을 끌어내기 위해서는 많은 집중과 관찰이 필요합니다.</span><br>
