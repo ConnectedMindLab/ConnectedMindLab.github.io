@@ -1,5 +1,5 @@
 ---
-title: "Brain PT란? | 강남 대치동 1:1 맞춤 뇌·인지 훈련"
+title: "Brain PT란? | 강남 대치동 1:1 맞춤 뇌 인지 훈련"
 description: "브레인PT(Brain PT)는 QEEG·뉴로피드백·바이오피드백·IM·인지훈련을 개인 상태에 맞게 매회 조합하는 1:1 맞춤 훈련입니다. 대치동 ConnectedMind."
 date: 2026-07-01
 ---
