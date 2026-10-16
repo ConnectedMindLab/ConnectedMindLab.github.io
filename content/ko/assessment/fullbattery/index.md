@@ -1,5 +1,5 @@
 ---
-title: "ConnectedMind 평가 프로그램"
+title: "대치동 QEEG·CAT 주의력검사·인지평가"
 description: "대치동 1:1 Private Brain PT Studio의 뇌·인지 평가 프로그램. QEEG·CAT·지능검사를 통합 해석하여 Brain PT 계획을 설계합니다. 서울대 인지과학 박사 직접 진행."
 date: 2026-07-01
 ---
@@ -113,6 +113,5 @@ Initial Assessment에 지능검사(WISC/WAIS)와 실행기능 평가가 추가�
 평가 예약은 전화 또는 카카오채널로 문의해 주세요.
 첫 방문 전 온라인 사전 설문을 작성하시면 평가가 더 효율적으로 진행됩니다.
 
-ConnectedMind | Private Brain PT Studio  
-마음이음 인지과학 연구소  
-서울 강남구 대치동
+ConnectedMind Brain PT Studio  
+서울 강남구 대치동 · 1:1 Private Brain PT

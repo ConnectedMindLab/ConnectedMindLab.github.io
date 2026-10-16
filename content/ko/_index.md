@@ -1,5 +1,5 @@
 ---
-title:
+title: "강남 대치동 1:1 Private Brain PT · 뉴로피드백 · QEEG"
 description: "강남 대치동 뉴로피드백·QEEG·CAT 주의력검사 및 1:1 Brain PT. 서울대 인지과학 박사가 집중력, 실행기능, ADHD 관련 자기조절 어려움, 수험생 시험수행, 아동·청소년 발달·정서조절, 성인 번아웃·수면·스트레스를 통합적으로 평가하고 맞춤 훈련합니다."
 date: 2026-07-01
 type: landing
@@ -29,6 +29,8 @@ sections:
     content:
       title: ConnectedMind Private Brain PT Studio란?
       text: |
+        ConnectedMind는 서울 강남구 대치동에 위치한 1:1 Private Brain PT Studio입니다. QEEG, CAT 주의력검사, 뉴로피드백, 바이오피드백, IM, RehaCom, HRV 및 자율신경 훈련 등을 개인의 인지·정서·신경생리적 특성과 목표에 따라 통합적으로 구성합니다.
+
         ConnectedMind Brain PT의 핵심은 장비가 아닙니다.
 
         평가 결과와 그날의 상태를 바탕으로 매회 훈련을 다시 설계하는 과정입니다.

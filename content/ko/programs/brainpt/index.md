@@ -1,10 +1,12 @@
 ---
-title: "Brain PT란?"
-description: "Brain PT는 뇌·인지·정서·자율신경 상태를 평가하고, 그날의 상태에 맞춰 다양한 훈련을 조합하는 1:1 맞춤 자기조절 프로그램입니다."
+title: "Brain PT란? | 강남 대치동 1:1 맞춤 뇌·인지 훈련"
+description: "브레인PT(Brain PT)는 QEEG·뉴로피드백·바이오피드백·IM·인지훈련을 개인 상태에 맞게 매회 조합하는 1:1 맞춤 훈련입니다. 대치동 ConnectedMind."
 date: 2026-07-01
 ---
 
 ## Brain PT란?
+
+Brain PT는 ConnectedMind가 제안하는 뇌·인지·정서·자율신경 기반의 통합 자기조절 훈련 개념입니다.
 
 > **몸을 위한 PT가 있다면, 수행과 자기조절을 위한 Brain PT가 있습니다.**
 

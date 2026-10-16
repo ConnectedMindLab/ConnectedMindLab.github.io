@@ -1,5 +1,5 @@
 ---
-title: "발달·자기조절 Brain PT"
+title: "아동청소년 인지발달·정서조절·부모코칭 | 강남"
 description: "아동·청소년 인지발달·정서조절·행동조절·부모코칭을 통합한 Brain PT 프로그램. 대치동 ConnectedMind, 서울대 인지과학 박사 직접 진행."
 date: 2026-07-01
 ---
@@ -75,8 +75,7 @@ ConnectedMind의 강점은 집중력 프로그램과 정서 지원을 별개로 
 
 ---
 
-ConnectedMind | Private Brain PT Studio  
-마음이음 인지과학 연구소  
-서울 강남구 대치동
+ConnectedMind Brain PT Studio  
+서울 강남구 대치동 · 1:1 Private Brain PT
 
 *본 프로그램은 의료적 진단이나 치료를 대신하지 않습니다. 임상적 위험도가 높은 증상(자해·자살 사고, 심한 우울·불안, 정신병적 증상 등)이 의심되면 정신건강의학과 등 의료기관 평가를 우선 권합니다.*

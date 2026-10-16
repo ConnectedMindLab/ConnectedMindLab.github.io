@@ -1,5 +1,5 @@
 ---
-title: "Performance Brain PT"
+title: "ADHD·집중력·실행기능·수험생 Brain PT | 강남 대치동"
 description: "ADHD 관련 주의·실행기능 어려움, 집중력 저하, 시험불안, 수험생 시험수행을 위한 1:1 Brain PT. 강남 대치동 ConnectedMind, QEEG·CAT 평가 후 뉴로피드백·IM·바이오피드백을 개인별로 설계합니다."
 date: 2026-07-01
 ---
@@ -78,8 +78,7 @@ ConnectedMind는 이러한 차이를 구분한 뒤 개인별 훈련 방향을 �
 
 ---
 
-ConnectedMind | Private Brain PT Studio  
-마음이음 인지과학 연구소  
-서울 강남구 대치동
+ConnectedMind Brain PT Studio  
+서울 강남구 대치동 · 1:1 Private Brain PT
 
 *본 프로그램은 의료적 진단이나 치료를 대신하지 않습니다.*

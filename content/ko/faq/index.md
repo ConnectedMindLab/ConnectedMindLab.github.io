@@ -1,6 +1,6 @@
 ---
-title: "자주 묻는 질문"
-description: "ConnectedMind Private Brain PT Studio 대치 — 평가, 훈련, 대상, 비용, 예약에 관한 질문을 모았습니다."
+title: "Brain PT·뉴로피드백·QEEG·집중력 FAQ"
+description: "ConnectedMind Brain PT, QEEG, 뉴로피드백, 바이오피드백, 집중력 훈련, 평가, 비용에 관한 자주 묻는 질문. 강남 대치동 ConnectedMind."
 ---
 
 ## 자주 묻는 질문
@@ -22,8 +22,7 @@ ConnectedMind는 동시에 두 명 이상을 받지 않습니다.
 
 **ConnectedMind는 일반 뉴로피드백 센터와 무엇이 다른가요?**
 
-일반 뉴로피드백 센터는 정해진 프로토콜을 반복 적용합니다.
-ConnectedMind는 매 세션마다 현재 상태를 먼저 확인하고, 그날 필요한 모듈(뉴로피드백·바이오피드백·IM·미주신경자극·RehaCom·인지훈련)을 조합합니다.
+뉴로피드백은 일정한 훈련 프로토콜을 반복하는 방식으로 운영되기도 합니다. ConnectedMind에서는 뉴로피드백을 여러 훈련 방법 중 하나로 활용하며, 평가 결과와 당일 상태에 따라 바이오피드백·IM·미주신경자극·RehaCom·인지훈련 등과 조합합니다.
 핵심은 장비가 아니라, 평가 결과와 그날의 상태를 바탕으로 매회 훈련을 다시 설계하는 과정입니다.
 
 ---
@@ -98,9 +97,7 @@ QEEG + CAT 주의력검사 + 설문(자기조절·학습·정서) + 면담으로
 
 **시험불안과 집중력 저하는 어떻게 구분하나요?**
 
-둘 다 수행을 방해하지만 원인이 다릅니다.
-시험불안은 자율신경 과활성(긴장·각성 조절)이 주 원인인 경우가 많고, 집중력 저하는 전두엽 주의 조절 또는 실행기능 약화와 연결될 수 있습니다.
-초기 평가에서 이 둘을 구분하고, 바이오피드백과 자율신경 훈련 비중을 조정합니다.
+시험불안과 집중력 저하는 서로 영향을 주고받을 수 있으며, 겉으로 비슷한 수행 저하라도 원인은 개인마다 다릅니다. ConnectedMind에서는 주의 수행, 정서 상태, 각성 및 스트레스 반응 등을 함께 살펴 훈련의 우선순위를 정합니다.
 
 ---
 
@@ -128,17 +125,7 @@ HRV 바이오피드백, 호흡 훈련, 미주신경자극, 뉴로피드백을 �
 
 **몇 회 정도 받아야 하나요?**
 
-10회 단위로 중간 확인을 합니다. 수면, 집중 지속 시간, 정서 반응, CAT 지표 등 초기에 정한 목표를 함께 검토합니다.
-
-연구에 따르면 뇌·자율신경의 변화는 20회 전후에서 나타나기 시작하는 경향이 있습니다. ADHD 등 집행기능 관련 어려움에는 30회 이상이 권장되며, 지속적인 효과를 위해서는 40회에서 50회가 필요하다는 임상 근거가 있습니다.
-
-ConnectedMind의 기본 프로그램은 20회 이상을 기준으로 하며, 목표와 훈련 반응에 따라 40회 이상으로 이어집니다.
-
-참고 자료
-
-- [ISNR Standards of Practice for Neurofeedback and Neurotherapy](https://www.researchgate.net/publication/232960601_Standards_of_Practice_for_Neurofeedback_and_Neurotherapy_A_Position_Paper_of_the_International_Society_for_Neurofeedback_Research)
-- [ISNR Evidence-Base for Neurofeedback as a Treatment for ADHD (2019)](https://isnr.org/wp-content/uploads/2019/07/NFB-as-an-Evidence-Based-Treatment-for-ADHD.pdf)
-- Mayo Clinic: [Biofeedback](https://www.mayoclinic.org/tests-procedures/biofeedback/about/pac-20384664) · [ADHD Treatment](https://www.mayoclinic.org/diseases-conditions/adhd/diagnosis-treatment/drc-20350895)
+필요한 훈련 횟수는 목표, 연령, 현재 어려움, 초기 상태와 훈련 반응에 따라 달라집니다. ConnectedMind에서는 10회 단위로 변화와 목표를 확인하고 이후 계획을 조정합니다. 장기적인 반복훈련이 필요한 경우에는 20회 이상, 또는 그 이상의 프로그램을 권할 수 있습니다.
 
 
 ---

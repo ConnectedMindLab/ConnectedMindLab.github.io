@@ -1,5 +1,5 @@
 ---
-title: "Regulation & Recovery Brain PT"
+title: "번아웃·수면·HRV·자율신경 Brain PT | 대치동"
 description: "번아웃, 수면 문제, 과각성, 브레인포그, 집중력 저하를 경험하는 성인을 위한 1:1 Brain PT. 강남 대치동 ConnectedMind, QEEG·HRV 바이오피드백·뉴로피드백·미주신경자극으로 자율신경 조절과 회복을 설계합니다."
 date: 2026-07-01
 ---
@@ -71,8 +71,7 @@ ConnectedMind는 "버티는 사람을 더 버티게 만드는 것"보다 잘 회
 
 ---
 
-ConnectedMind | Private Brain PT Studio  
-마음이음 인지과학 연구소  
-서울 강남구 대치동
+ConnectedMind Brain PT Studio  
+서울 강남구 대치동 · 1:1 Private Brain PT
 
 *본 프로그램은 의료적 진단이나 치료를 대신하지 않습니다.*
