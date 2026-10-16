@@ -1,6 +1,6 @@
 ---
 title: "ConnectedMind"
-description: "ConnectedMind 대표 이정은 박사. 서울대학교 인지과학 협동과정 박사. 뉴로피드백 기반 인지훈련, 하이퍼스캐닝, 계산 모델링 전문. 강남 대치동 1:1 Private Brain PT Studio."
+description: "ConnectedMind Brain PT Studio 소개. 서울대학교 인지과학 박사가 직접 평가·설계·훈련을 담당하는 강남 대치동 1:1 Brain PT Studio."
 date: 2026-07-01
 ---
 
