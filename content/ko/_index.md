@@ -8,12 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Brain PT Studio <span style="color:#D4A853;">in 대치</span>
+        Brain PT Studio <span style="color:#D4A853;white-space:nowrap;">in 대치</span>
       text: |
         <br>
-        <span style="white-space:nowrap">뇌와 마음을 읽고 최적의 수행을 끌어내기 위해서는 많은 집중과 관찰이 필요합니다.</span><br>
+        뇌와 마음을 읽고 최적의 수행을 끌어내기 위해서는 많은 집중과 관찰이 필요합니다.<br>
         그래서, Brain PT Studio에서는 <strong>한 세션에 한 분만 훈련합니다.</strong><br>
-        <span style="white-space:nowrap">그날의 상태를 평가하고, 매 세션마다 개별화된 인지훈련을 제공합니다.</span>
+        그날의 상태를 평가하고, 매 세션마다 개별화된 인지훈련을 제공합니다.
       cta:
         label: 상담 예약 문의
         url: /ko/contact/
