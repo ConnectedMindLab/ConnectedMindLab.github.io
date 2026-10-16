@@ -1,5 +1,6 @@
 ---
 title: "ConnectedMind"
+display_title: "ConnectedMind | Brain PT STUDIO in 대치"
 description: "ConnectedMind Brain PT Studio 소개. 서울대학교 인지과학 박사가 직접 평가·설계·훈련을 담당하는 강남 대치동 1:1 Brain PT Studio."
 date: 2026-07-01
 ---
