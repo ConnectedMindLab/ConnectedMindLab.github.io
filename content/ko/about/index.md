@@ -36,8 +36,8 @@ QEEG·CAT 주의력검사·설문·면담으로 현재 상태를 평가하고, �
 
 ### 약력
 
-- ConnectedMind Private Brain PT Studio 설립 (2026)
-- 마음이음 인지과학 연구소 설립 (2025)
+- ConnectedMind Brain PT Studio 오픈 (2027)
+- ConnectedMind Institute for Cognitive Science 설립 (2025)
 - 서울대 언어와 사고 실험 연구실 연구원
 - (전) 서울대 Functional Brain Imaging Lab 연구원
 - 한국심리학회 정회원
