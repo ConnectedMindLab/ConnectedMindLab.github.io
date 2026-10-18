@@ -15,7 +15,7 @@ sections:
         Demonstrating the therapeutic power of human connection through science.
       cta:
         label: View Training Programs
-        url: /en/programs/adhd/
+        url: /en/programs/performance/
       cta_alt:
         label: About Us
         url: /en/about/

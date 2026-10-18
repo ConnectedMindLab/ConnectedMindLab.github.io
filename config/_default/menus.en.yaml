@@ -7,15 +7,15 @@ main:
     identifier: programs
     weight: 20
   - name: ADHD & Neurodevelopmental
-    url: /en/programs/adhd/
+    url: /en/programs/performance/
     parent: programs
     weight: 21
   - name: High-Functioning Children
-    url: /en/programs/gifted/
+    url: /en/programs/development/
     parent: programs
     weight: 22
   - name: Adult Peak Performance
-    url: /en/programs/adult/
+    url: /en/programs/regulation/
     parent: programs
     weight: 23
 

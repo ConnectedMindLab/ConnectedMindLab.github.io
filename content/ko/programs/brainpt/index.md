@@ -97,9 +97,9 @@ ConnectedMind의 Brain PT는 정해진 장비를 반복하는 프로그램이 �
 
 | 프로그램 | 대상 | 핵심 |
 |---------|------|------|
-| [**Performance Brain PT**](/ko/programs/adhd/) | 아동·청소년·수험생 | 집중력·실행기능·시험수행·학습효율 |
-| [**Regulation & Recovery Brain PT**](/ko/programs/adult/) | 성인 | 번아웃·수면·과각성·집중력 저하 |
-| [**발달·자기조절 Brain PT**](/ko/programs/gifted/) | 아동·청소년 | 인지발달·정서조절·행동조절·부모코칭 |
+| [**Performance Brain PT**](/ko/programs/performance/) | 아동·청소년·수험생 | 집중력·실행기능·시험수행·학습효율 |
+| [**Regulation & Recovery Brain PT**](/ko/programs/regulation/) | 성인 | 번아웃·수면·과각성·집중력 저하 |
+| [**발달·자기조절 Brain PT**](/ko/programs/development/) | 아동·청소년 | 인지발달·정서조절·행동조절·부모코칭 |
 
 ---
 

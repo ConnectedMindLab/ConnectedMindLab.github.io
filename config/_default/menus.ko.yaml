@@ -11,15 +11,15 @@ main:
     parent: programs
     weight: 20
   - name: Performance Brain PT
-    url: /ko/programs/adhd/
+    url: /ko/programs/performance/
     parent: programs
     weight: 21
   - name: Regulation & Recovery Brain PT
-    url: /ko/programs/adult/
+    url: /ko/programs/regulation/
     parent: programs
     weight: 22
   - name: 발달·자기조절 Brain PT
-    url: /ko/programs/gifted/
+    url: /ko/programs/development/
     parent: programs
     weight: 23
 
