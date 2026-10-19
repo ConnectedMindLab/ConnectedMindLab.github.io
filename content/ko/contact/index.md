@@ -4,7 +4,7 @@ title: "Contact"
 
 ## 문의 및 예약
 
-마음이음 인지과학 연구소는 사전 예약제로 운영됩니다.
+ConnectedMind Brain PT Studio는 사전 예약제로 운영됩니다.
 초기 면담과 평가 후 개인별 훈련 계획을 수립합니다.
 
 ---
