@@ -7,6 +7,11 @@
 
 {{/* Get site logo. */}}
 {{ $show_logo := site.Params.header.navbar.show_logo | default true }}
+{{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
+{{ $logo := "" }}
+{{ if $has_logo }}
+  {{ $logo = (partial "blox-core/functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
+{{ end }}
 
 <header>
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
@@ -15,9 +20,13 @@
       {{if $show_logo}}
       <div class="d-none d-lg-inline-flex">
         <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
-          <img src="{{ "media/logo-light-web.png" | relURL }}"
-               alt="{{ site.Title }}"
-               style="height:44px; width:auto; border-radius:4px;">
+          {{- if $has_logo -}}
+            <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+          {{- else -}}
+            Brain PT STUDIO
+          {{- end -}}
         </a>
       </div>
       {{end}}
@@ -32,9 +41,13 @@
       {{if $show_logo}}
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
         <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
-          <img src="{{ "media/logo-light-web.png" | relURL }}"
-               alt="{{ site.Title }}"
-               style="height:36px; width:auto; border-radius:4px;">
+        {{- if $has_logo -}}
+          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+          {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+          {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+        {{- else -}}
+          {{- site.Title -}}
+        {{- end -}}
         </a>
       </div>
       {{end}}
