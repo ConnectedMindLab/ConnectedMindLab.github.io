@@ -72,8 +72,7 @@
 {{ else if $sharing_image }}
   {{ $og_image = $sharing_image.Permalink }}
 {{ else }}
-  {{/* Fallback: use static og-banner (new filename bypasses KakaoTalk cache) */}}
-  {{ $og_image = "https://brainptstudio.com/media/og-banner.png" }}
+  {{ $og_image = "https://brainptstudio.com/media/og-v2.png" }}
   {{ $twitter_card = "summary_large_image" }}
 {{ end }}
 {{ $scr.Set "og_image" $og_image }}{{/* Set `og_image` globally for `rss.xml`. */}}

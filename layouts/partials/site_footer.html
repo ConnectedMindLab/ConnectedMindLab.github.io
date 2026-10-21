@@ -10,6 +10,15 @@
   {{ end }}
   {{ partial $footer_section_path . }}
 
+  {{/* Footer logo */}}
+  <div style="text-align:center; padding: 2rem 0 0.5rem;">
+    <a href="{{ site.Home.RelPermalink }}">
+      <img src="{{ "media/logo-dark.png" | relURL }}"
+           alt="{{ site.Title }}"
+           style="height:64px; width:auto; border-radius:6px;">
+    </a>
+  </div>
+
   {{/* Social icons */}}
   <div style="text-align:center; padding: 0.5rem 0 1rem;">
     <a href="mailto:connectedmind@naver.com"
