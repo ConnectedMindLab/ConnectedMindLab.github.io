@@ -14,14 +14,18 @@ main:
     url: /ko/programs/performance/
     parent: programs
     weight: 21
+  - name: 시험수행 Brain PT
+    url: /ko/programs/test-performance/
+    parent: programs
+    weight: 22
   - name: Regulation & Recovery Brain PT
     url: /ko/programs/regulation/
     parent: programs
-    weight: 22
+    weight: 23
   - name: 발달·자기조절 Brain PT
     url: /ko/programs/development/
     parent: programs
-    weight: 23
+    weight: 24
 
   - name: 평가 프로그램
     identifier: assessment
