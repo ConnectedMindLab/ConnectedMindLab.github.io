@@ -2,3 +2,21 @@
 // (재적용 시 _colors_backup_default.scss 참고)
 
 @import 'template';
+
+// 내원객 로그인 버튼 (href로 타겟팅)
+.navbar-nav a[href*="/login"] {
+  background-color: #2A3D35 !important;
+  color: #E2CF9E !important;
+  border-radius: 6px !important;
+  padding: 0.35rem 0.9rem !important;
+  font-size: 0.85rem !important;
+  white-space: nowrap;
+  transition: background-color 0.2s;
+  margin-left: 0.5rem;
+
+  &:hover {
+    background-color: #1e2e28 !important;
+    color: #E2CF9E !important;
+    opacity: 1 !important;
+  }
+}

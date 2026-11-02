@@ -1,7 +1,15 @@
 main:
   - name: About
-    url: /en/about/
+    identifier: about
     weight: 10
+  - name: About
+    url: /en/about/
+    parent: about
+    weight: 11
+  - name: People
+    url: /en/people/
+    parent: about
+    weight: 12
 
   - name: Training Programs
     identifier: programs
@@ -71,9 +79,6 @@ main:
     url: /en/research/
     weight: 50
 
-  - name: People
-    url: /en/people/
-    weight: 55
 
   - name: Cognitive Science Column
     url: /en/column/
@@ -86,3 +91,9 @@ main:
   - name: FAQ
     url: /en/faq/
     weight: 80
+
+  - name: Login
+    url: https://client-portal-chi-six.vercel.app/login
+    weight: 99
+    params:
+      class: nav-login-btn

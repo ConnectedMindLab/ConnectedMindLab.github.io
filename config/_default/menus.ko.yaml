@@ -1,7 +1,15 @@
 main:
   - name: 소개
-    url: /ko/about/
+    identifier: about
     weight: 10
+  - name: 소개
+    url: /ko/about/
+    parent: about
+    weight: 11
+  - name: 구성원
+    url: /ko/people/
+    parent: about
+    weight: 12
 
   - name: Brain PT 프로그램
     identifier: programs
@@ -75,9 +83,6 @@ main:
     url: /ko/research/
     weight: 50
 
-  - name: People
-    url: /ko/people/
-    weight: 55
 
   - name: Blog
     url: /ko/blog/
@@ -94,3 +99,9 @@ main:
   - name: FAQ
     url: /ko/faq/
     weight: 80
+
+  - name: 로그인
+    url: https://client-portal-chi-six.vercel.app/login
+    weight: 99
+    params:
+      class: nav-login-btn
