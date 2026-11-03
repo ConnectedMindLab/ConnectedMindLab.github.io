@@ -92,6 +92,13 @@ main:
     url: /en/faq/
     weight: 80
 
+  - name: Book via Naver
+    url: https://booking.naver.com/
+    weight: 98
+    params:
+      class: nav-booking-btn
+      target: _blank
+
   - name: Login
     url: https://client-portal-chi-six.vercel.app/login
     weight: 99

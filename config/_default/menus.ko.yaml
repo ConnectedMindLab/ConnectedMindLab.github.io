@@ -100,6 +100,13 @@ main:
     url: /ko/faq/
     weight: 80
 
+  - name: 네이버 예약
+    url: https://booking.naver.com/
+    weight: 98
+    params:
+      class: nav-booking-btn
+      target: _blank
+
   - name: 로그인
     url: https://client-portal-chi-six.vercel.app/login
     weight: 99
