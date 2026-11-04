@@ -7,7 +7,7 @@ ko:
 
 en:
   locale: en-US
-  title: ConnectedMind Cognitive Science Institute
+  title: ConnectedMind
   contentDir: content/en
   params:
     description: "ConnectedMind Cognitive Science Institute — Neurofeedback, Biofeedback, and Cognitive Training Center."
